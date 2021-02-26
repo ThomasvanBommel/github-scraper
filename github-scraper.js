@@ -2,7 +2,6 @@
  * Github account repo scraper
  * @author Thomas vanBommel
  * @since 12-14-2020
- * 4637e86c0b49f99528090456a64ba38a95ff517b
  */
 const https = require("https");
 
